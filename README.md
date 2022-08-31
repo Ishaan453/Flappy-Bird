@@ -8,4 +8,4 @@ Gameplay
 ![alt text](https://github.com/Ishaan453/Flappy-Bird/blob/main/Images/Gameplay.jpeg)
 
 Gamo Over Screen
-![alt text](https://github.com/Ishaan453/Flappy-Bird/blob/main/Images/Gameover.jpeg)
+![alt text](https://github.com/Ishaan453/Flappy-Bird/blob/main/Images/gameOver.jpeg)
