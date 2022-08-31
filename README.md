@@ -7,5 +7,5 @@ My first game using Unity engine
 # Gameplay
 ![alt text](https://github.com/Ishaan453/Flappy-Bird/blob/main/Images/Gameplay.jpeg)
 
-# Gamo Over Screen
+# Game Over Screen
 ![alt text](https://github.com/Ishaan453/Flappy-Bird/blob/main/Images/gameOver.jpeg)
